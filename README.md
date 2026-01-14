@@ -1,6 +1,6 @@
 This base for crack MyDockFinder 
 
-BASED ON: CSF (PhantomBandit) & Goldberg
+BASED ON: CSF (PhantomBandit) & Goldberg (Thanks for Rexagames for this build)
 
 How to use this? 
 
