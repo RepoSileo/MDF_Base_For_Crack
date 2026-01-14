@@ -4,7 +4,7 @@ BASED ON: CSF (PhantomBandit) & Goldberg (Thanks for Rexagames for this build)
 
 How to use this? 
 
-Move the MyDockFinder files to Program
+Move the MyDockFinder files to Programm
 
 After that, open launcher64.exe or launcher32.exe
 
