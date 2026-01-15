@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Who dev
 - [t.me/W1xced](https://t.me/W1xced) for [t.me/LIBDock](https://t.me/LIBDock)
 
 ---
