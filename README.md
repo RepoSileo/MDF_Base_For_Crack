@@ -1,20 +1,27 @@
-This base for crack MyDockFinder 
+# MyDockFinder Crack Base
 
-BASED ON: CSF (PhantomBandit) & Goldberg (Thanks for Rexagames for this build)
+**Based on:** CSF (PhantomBandit) & Goldberg  
 
-How to use this? 
+---
 
-Move the MyDockFinder files to the Program folder
+## 📦 Installation
+1. Move the **MyDockFinder** files into the `Program` folder.  
+2. Run either `launcher64.exe` or `launcher32.exe`.
 
-After that, open launcher64.exe or launcher32.exe
+---
 
-What's version MyDockFinder tested this progra
--
-Version - v1.10.9.5, 1.10.9.7, 1.10.9.9 
+## ✅ Tested Versions
+- v1.10.9.5  
+- v1.10.9.7  
+- v1.10.9.9  
 
-Who dev 
--
+---
 
-t.me\W1xced for t.me\LIBDock 
+## 👨‍💻 Developer
+- [t.me/W1xced](https://t.me/W1xced) for [t.me/LIBDock](https://t.me/LIBDock)
 
-Special thanks for Rexagames (Created build) | Ram (Give 1.10.9.9 file MyDockFinder)
+---
+
+## 🙏 Special Thanks
+- **Rexagames** — created the build  
+- **Ram** — provided the MyDockFinder v1.10.9.9 file
