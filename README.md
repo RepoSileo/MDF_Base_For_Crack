@@ -1,6 +1,7 @@
 # MyDockFinder Crack Base
 
 **Based on:** CSF (PhantomBandit) & Goldberg  
+How change name? -> Open configs.user.ini -> Change *account_name= Your name*
 
 ---
 
